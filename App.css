@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+#root {
+  width: 75%;
+  margin: auto;
+  padding-top: 3rem;
+}
+
+img {
+  width: 8rem;
+  height: 8rem;
+  border: 0.25rem solid black;
+  border-radius: 0.5rem;
+  margin-left: 0.25rem;
+}
